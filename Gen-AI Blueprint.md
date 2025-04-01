@@ -86,5 +86,5 @@ User-Provided Data: Mitigating risks from prompt data used for retraining models
 
 Cloud Security: Implementing privacy controls in cloud environments.
 
-##Conclusion
+## Conclusion
 Scaling Generative AI requires a strategic focus on specialized roles and robust frameworks. By investing in expertise across AI prompt engineering, generative AI design, model evaluation and security, organizations can maximize Gen-AI’s potential while ensuring trust, efficiency, and innovation.
