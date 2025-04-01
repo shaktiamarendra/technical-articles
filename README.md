@@ -3,4 +3,4 @@
 - [[Gen-AI Blueprint.md](url)](#)  
 - [[Solution of Problem.md](url)]](#)  
 
-📝 **[Visit My Blog]((https://github.com/shaktiamarendra/technical-articles/tree/main))**  
+📝 **[Visit My Blog](https://github.com/shaktiamarendra/technical-articles/tree/main)**  
